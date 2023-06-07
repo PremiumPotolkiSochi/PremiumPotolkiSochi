@@ -2,7 +2,7 @@ body{
 	background-color: #070708;
 }
 div.backgrd{
-	background-image: url(trademarklessopacity.png");
+	background-image: url("trademarklessopacity.png");
 	background-color: hsla(200, 10%, 17%, 0.2);
 	background-repeat: no-repeat;
 	background-position: center;
